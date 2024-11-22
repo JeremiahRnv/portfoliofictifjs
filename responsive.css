@@ -31,6 +31,8 @@ section{
 }
 
 @media (max-width: 768px){
+
+
     #menu-icon{
         display: block;
     }
@@ -44,6 +46,7 @@ section{
         border-top: .1rem solid rgba(0, 0, 0, .2);
         box-shadow: 0 .5rem 1rem rgba(0, 0 ,0 .2);
         display: none;
+        
     }
 
     .navbar.active{
